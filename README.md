@@ -1,4 +1,4 @@
-# eer_final_inspection
+# EER_final_inspection
 
 ## Task
 
