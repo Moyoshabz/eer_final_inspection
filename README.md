@@ -18,6 +18,6 @@ Design an application to parse and maintain final inspection data of a hardware 
 
    # Solution
 
-   ![iamge_1](./images/final_inspection_model.png)
+   ![iamge_1](./final_inspection_model.png)
 
    
