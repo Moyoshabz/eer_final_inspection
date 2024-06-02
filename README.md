@@ -16,4 +16,8 @@ Design an application to parse and maintain final inspection data of a hardware 
 
    Supplier3-PartX provides PartName, InspectorID, InspectionTime, InspectionDate, aListOfMetrics [Metric1, Metric4]
 
+   # Solution
+
+   
+
    
